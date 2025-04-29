@@ -1,4 +1,4 @@
-# Ex--2-AWS-Account-setup-and-S3-creation
+# Ex--6-AWS-Account-setup-and-S3-creation
 
 ## NAME: DHANUSHA K
 ## REG NO: 212223040034
